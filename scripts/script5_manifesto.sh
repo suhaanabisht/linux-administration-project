@@ -13,7 +13,7 @@ OUTPUT="manifesto_$(whoami).txt"
 # Composing the paragraph and writing to file
 {
     echo "Open Source Manifesto - Generated on $DATE"
-    echo "Author: Hariom Singhal Puri (VIT Bhopal University)"
+    echo "Author: Suhana Bisht (VIT Bhopal University)"
     echo "------------------------------------------"
     echo "In a world of closed systems, I choose $TOOL because it represents $FREEDOM."
     echo "I believe in the power of shared algorithmic knowledge, which is why I aim to build $BUILD"
